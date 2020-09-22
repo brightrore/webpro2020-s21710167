@@ -8,6 +8,7 @@ const person= {
     lastname : "rore",
     age : 20,
 }
+
 console.log(
     `halo nama saya ${person.fisrtName} ${person.lastname}, dan umur saya ${person.age}`
 )
